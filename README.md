@@ -1,16 +1,18 @@
-<h1 align="center">Hi 👋, I'm Hirni</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirnitv&label=Profile%20views&color=0e75b6&style=flat" alt="hirnitv" /> </p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HirniTV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HirniTV&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HirniTV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HirniTV&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="left">
-</p>
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=HirniTV&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirnitv&show_icons=true&locale=en&layout=compact" alt="hirnitv" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirnitv&show_icons=true&locale=en" alt="hirnitv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirnitv&" alt="hirnitv" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
